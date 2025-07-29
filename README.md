@@ -21,15 +21,6 @@ It provides simple methods to manage Virtual Machines (VPS), list available OS &
 ```bash
 npm install iotamine-client
 ````
-
-> If unpublished on npm yet, clone manually:
-
-```bash
-git clone https://github.com/piyushladhar/iotamine-js-client.git
-cd iotamine-js-client
-npm install
-```
-
 ---
 
 ## 🛠 Usage
