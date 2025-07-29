@@ -1,0 +1,22 @@
+{
+  "name": "iotamine-sdk",
+  "version": "0.1.0",
+  "description": "Official JavaScript SDK for Iotamine Cloud API",
+  "main": "index.js",
+  "keywords": [
+    "iotamine",
+    "vps",
+    "cloud",
+    "sdk",
+    "api"
+  ],
+  "author": "Piyush Ladhar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piyushladhar/iotamine-js-client.git"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
